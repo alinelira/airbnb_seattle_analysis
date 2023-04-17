@@ -8,7 +8,7 @@ The purpose of this project is to conduct an exploratory analysis of Seattle's A
 - What does the price trend look like throughout the year, and when is the busiest time to visit the city?
 - Which types of properties are most likely to welcome pets?
 
-The Seattle's Airbnb data is available on [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle>) or [Airbnb](http://insideairbnb.com/get-the-data/)
+The Seattle's Airbnb data is available on [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle>) or [Airbnb](http://insideairbnb.com/get-the-data/).
 
 ## Files
  
@@ -17,7 +17,7 @@ The Seattle's Airbnb data is available on [Kaggle](https://www.kaggle.com/datase
 │   ├── listings.csv: including descriptions, amenities and average review score of 3.818 Airbnb listings.
 │   ├── calendar.csv: including listing id, price and availability for that day. The period is from Jan/16 to Jan/17.
 │   └── reviews.csv: including unique id for each reviewer and detailed comments
-├── nb_analysis.ipynb
+├── nb_analysis.ipynb: code created to perform the exploratory analysis
 ├── README.md
 
 ```
@@ -33,7 +33,7 @@ The code should run with no issues using Python versions 3.*.
 
 ## Results
 
-The main findings of this analysis can be found at this Medium post.
+The main findings of this analysis can be found at this [Medium post](https://medium.com/@aline.olira/uncovering-insights-from-seattle-airbnb-data-e53f3af5f6ae).
  
 ## Acknowledgments
 
